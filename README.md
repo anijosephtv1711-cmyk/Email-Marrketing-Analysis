@@ -65,4 +65,4 @@ The objective is to understand customer interaction patterns and measure the eff
 ---
 
 ## 📷 Dashboard Preview
-![Email Marketing Dashboard](Email Marketing Analysis.png)
+![Email Marketing Dashboard](Email Marketing.png)
